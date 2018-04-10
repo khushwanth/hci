@@ -1,0 +1,10 @@
+<resources>
+    <!-- System default String Resources -->
+    <string name="app_name">CST Care</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- User Defined String Resources -->
+    <string name="cst_logo">CST Logo</string>
+    <string name="maint">Maintenance</string>
+    <string name="manag">Management</string>
+</resources>
